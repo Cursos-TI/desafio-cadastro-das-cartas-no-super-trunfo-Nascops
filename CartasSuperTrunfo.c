@@ -71,5 +71,6 @@ int main() {
     printf("PIB per capita: %s\n", (pper_capita[0] > pper_capita[1]) ? "Carta 1 Ganhou" : (pper_capita[0] < pper_capita[1]) ? "Carta 2 Ganhou" : "Empate");
     printf("Super Poder: %s\n", (poder[0] > poder[1]) ? "Carta 1 Ganhou" : (poder[0] < poder[1]) ? "Carta 2 Ganhou" : "Empate");
 
+    printf("Novo Comit\n");
     return 0;
 }
